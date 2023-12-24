@@ -3,7 +3,7 @@ import re # For regex module, used for splitting strings based on specific patte
 
 class Board:
     '''
-    This class is the blueprint for the baoard! 
+    This class is the blueprint for the board! 
     '''
     def __init__(self, dim_size, num_bombs):
         '''
