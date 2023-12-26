@@ -1,2 +1,2 @@
 # Daily-Python-Practice
-This repo will document my learning in Python from doing daily problems. 
+This repository will chronicle my journey in learning Python through daily problem-solving exercises. It will be a compilation of various problems focused on topics I am interested in exploring each day.
