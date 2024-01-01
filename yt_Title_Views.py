@@ -1,4 +1,4 @@
-# Create a program which allows you to download any video from youtube
+# Create a program which shows you the title and number of views of any YouTube link
 
 from pytube import YouTube
 
