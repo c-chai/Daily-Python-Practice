@@ -2,7 +2,6 @@
 # Program allows user to deposit, withdraw, and check balance
 # Error handling for invalid inputs (like withdrawing over the limit or depositing negative amounts)
 # Logs every transaction and allows user to view the transaction history 
-# Simple interest calculator that updates the balance on a monthly basis based on an annual interest rate
 
 class BankAccount:
     # This class function will have account holder name, balance, and transaction history 
