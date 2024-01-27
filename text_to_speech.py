@@ -1,4 +1,4 @@
-# Create a program which turns text to speech from a webstie URL 
+# Create a program which turns text to speech from a website URL 
 # It will be read directly and speech file will not be saved 
 
 import io
