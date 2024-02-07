@@ -1,0 +1,2 @@
+This is just a random text file that I am using to count the number of words from my python program. 
+When you want to achieve your goals, it is better to take baby steps over a long period of time than to take a huge step in a short period of time. Consistency, perserverence, and determination are necessary to keep going. Taking baby steps everyday will form the habit and momentum to keep going! According to a study from the European Journal of Social Psychology, it takes an average of 66 days to form a habit, with a range between 18 - 254 days. 
